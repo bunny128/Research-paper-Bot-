@@ -1,0 +1,16 @@
+# environment
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/
+
+# vector db
+chroma_db/
+*.sqlite3
+
+# mac
+.DS_Store
